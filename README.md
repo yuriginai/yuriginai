@@ -4,7 +4,7 @@
 - 🌱 Estudando Lua
 - 📫 Contate-me no email: knepomucenodeoliveira@gmail.com
 ##
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriginai&show_icons=true&theme=neon)
+  ![](https://github-readme-stats.vercel.app/api?username=yuriginai&show_icons=true&theme=neon)
 
 ##
 
